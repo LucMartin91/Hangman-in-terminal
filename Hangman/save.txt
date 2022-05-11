@@ -1,0 +1,1 @@
+{"Word":"_O_____","ToFind":"DOSSIER","Attempts":10,"HangmanPositions":["\n  +---+  \n  |   |  \n  O   |  \n /|\\  |  \n / \\  |  \n      |  \n=========","","","","","","","","",""]}
